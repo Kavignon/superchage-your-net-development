@@ -1,4 +1,4 @@
-# Tools to empower your .NET development
+# Supercharge your .NET development
 
 ## .NET Development
 * [Humanizr - Humanizer meets all your .NET needs for manipulating and displaying strings, enums, dates, times, timespans, numbers and quantities](https://humanizr.net)
