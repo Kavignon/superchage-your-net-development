@@ -58,6 +58,7 @@
 * [Format document on Save - Enables auto formatting of the code when you save a file](https://marketplace.visualstudio.com/items?itemName=mynkow.FormatdocumentonSave)
 * [Trailing Whitespace Visualizer - Keeps your code files clean by making it easier than ever to identify and remove any trailing whitespace](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.TrailingWhitespaceVisualizer)
 * [Visual Studio Spell Checker - An editor extension that checks the spelling of comments, strings, and plain text as you type or interactively with a tool window. ](https://marketplace.visualstudio.com/items?itemName=EWoodruff.VisualStudioSpellCheckerVS2017andLater)
+* [Bracket Pair Colorizer 2 - This extension allows matching brackets to be identified with colours. The user can define which tokens to match, and which colours to use.](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
 
 ## F# development
 
