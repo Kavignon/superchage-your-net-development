@@ -4,6 +4,7 @@
 * [Humanizr - Humanizer meets all your .NET needs for manipulating and displaying strings, enums, dates, times, timespans, numbers and quantities](https://humanizr.net)
 * [Cognitive Complexity - can help to understand – based on calculating a metric value – how readable and maintainable a certain method is.](https://plugins.jetbrains.com/plugin/12024-cognitivecomplexity)
 * [NuGet Package Explorer - Create, update and deploy Nuget Packages with a GUI](https://github.com/NuGetPackageExplorer/NuGetPackageExplorer)
+* [Fira Code Font - free monospaced font containing ligatures for common programming multi-character combinations. This is just a font rendering feature: underlying code remains ASCII-compatible. This helps to read and understand code faster.](https://github.com/tonsky/FiraCode)
 
 ### CLI development
 * [Spectre Console - A .NET library that makes it easier to create beautiful console applications](https://github.com/spectreconsole/spectre.console)
